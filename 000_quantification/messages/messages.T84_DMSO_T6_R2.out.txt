@@ -1,0 +1,20 @@
+Tue Mar  4 21:46:11 GMT 2025
+/users/home/adrian/research/akthelia/src
+the scratch dir is:
+/scratch/users/adrian/1296929-p3UO
+
+about to copy files into scratch
+Tue Mar  4 21:46:11 GMT 2025
+Tue Mar  4 21:46:34 GMT 2025
+
+about to call trimmomatic
+Tue Mar  4 21:46:34 GMT 2025
+Tue Mar  4 22:06:22 GMT 2025
+
+about to copy results out of scratch to my dirs
+Tue Mar  4 23:21:52 GMT 2025
+Tue Mar  4 23:21:52 GMT 2025
+
+about to remove scratch dir
+all done.
+Tue Mar  4 23:21:53 GMT 2025
